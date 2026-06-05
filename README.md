@@ -18,3 +18,10 @@ Sistema desarrollado en Java para la gestión de campañas de vacunación.
 - Swing
 - MySQL
 - NetBeans
+
+# Base de Datos
+Para instalar la base de datos:
+
+1. Crear la base de datos SectorSalud.
+2. Ejecutar el script `SectorSalud.sql`.
+3. Configurar las credenciales en `Conexion_DB.java`.
